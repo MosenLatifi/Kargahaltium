@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=ETH-W5500.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Programmer.SchDoc|SheetNumber=3
